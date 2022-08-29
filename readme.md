@@ -1,7 +1,7 @@
 # LIFE CHANGER
 
 <p align="center">
-<img src="./logo.png" width="50%" height="50%"/>
+<img src="./logo.png" width="100%" height="100%"/>
 </p>
 
 # Millions in Transactions
@@ -43,7 +43,7 @@ DATE: AUGUST 30 - SEPTEMBER 6, 2022
 [JOIN NOW](https://sweepwidget.com/view/61501-p97iwnxb)
 
 
-## JOIN THE BIGGEST [PINKSALE](https://sweepwidget.com/view/61501-p97iwnxb) PRE-SALE EVER!
+## JOIN THE BIGGEST [PINKSALE](https://www.pinksale.finance/launchpad/0xBcede99C4D6bf28Fd828C80f4e993059aE6598AD?chain=BSC) PRE-SALE EVER!
 <p align="center">
 <img src="./pinksale.png" width="50%" height="50%"/>
 </p>
