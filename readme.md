@@ -4,23 +4,30 @@
 <img src="./logo.png" width="100%" height="100%"/>
 </p>
 
-# Millions in Transactions
+# Millions in Transactions :moneybag:
 
 Millions in Reflections + Millions in Marketing + Millions in Liquidity = Millions in Opportunity
 
 [WHITEPAPER](https://lifechanger.world/wp-content/uploads/2022/08/LIFE-CHANGER-white-Paper.pdf)
 
-## About Us
+## About Us :heavy_dollar_sign:
 
 “If you don't find a way to make money while you sleep, you will work until you die.” ~ Warren Buffet
+
+<p align="center">
+<img src="./luxury 5.jpg" width="100%" height="100%"/>
+</p>
 
 Life Changer has been created to provide an endless stream of income to our valued holders. This ecosystem is based upon automatic Rewards and LP Acquisitions which are advantageous in cryptocurrency as it generates rewards by holding the Life Changer Token while generating passive income.
 With an experienced and successful team with a proven track record of producing token projects rising over 3 to 8x of pre-sale values after launch, they are determined to set a new bar & SMASH all previous records!
 With PinkSale’s largest 2,500 Soft Cap / 5,000 Hard Cap Pre-Sale Event, Life Changer is an opportunity you cannot miss!!!
 
+
 ## Tokenomics
-LIFE TOKEN.
-Life Token has a maximum supply of 100,000,000 tokens.
+|Token Name:| :fuelpump: LIFE TOKEN|
+|-|-|
+|Total Supply: |100,000,000|
+
 
 |Reflections​| Liquidity | Marketing |
 |-|-|-|
@@ -29,7 +36,7 @@ Life Token has a maximum supply of 100,000,000 tokens.
 ### Token Address
 0x1B5B9186E57B0240F2cd930840a809D6616794FC
 
-## LIFE CHANGER AIRDROP
+## LIFE CHANGER AIRDROP :droplet:
 ### TOTAL REWARD:​
 500,00 LIFE AND $500 BUSD
 
@@ -43,7 +50,7 @@ DATE: AUGUST 30 - SEPTEMBER 6, 2022
 [JOIN NOW](https://sweepwidget.com/view/61501-p97iwnxb)
 
 
-## JOIN THE BIGGEST [PINKSALE](https://www.pinksale.finance/launchpad/0xBcede99C4D6bf28Fd828C80f4e993059aE6598AD?chain=BSC) PRE-SALE EVER!
+# JOIN THE BIGGEST [PINKSALE](https://www.pinksale.finance/launchpad/0xBcede99C4D6bf28Fd828C80f4e993059aE6598AD?chain=BSC) PRE-SALE :handbag: EVER!
 <p align="center">
 <img src="./pinksale.png" width="50%" height="50%"/>
 </p>
@@ -55,20 +62,20 @@ DATE: AUGUST 30 - SEPTEMBER 6, 2022
 
 ## Roadmap
 *Upon successful Pre-Sale
-- August 2022
+- **August 2022**
     - Token deployment
     - Audit/KYC
     - Socials
     - Website
     - Pre-Sale
-- September 2022
+- **September 2022**
     - Launch
     - Massive Marketing
     - 10,000 holders
     - 10 CEX
     - Celebrity endorsements
     - Phase 1 of App development
-- October 2022
+- **October 2022**
     - Massive Marketing
     - 25,000 holders
     - 10 New CEX (20 total)
