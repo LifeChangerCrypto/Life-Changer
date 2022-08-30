@@ -83,6 +83,10 @@ DATE: AUGUST 30 - SEPTEMBER 6, 2022
     - Completion of App
     - 500,000 social reach
 
+<p align="center">
+<img src="./Certificate.png" width="100%" height="100%"/>
+</p>
+
 ## Events
 As LIFE Changer shatters new milestones, various events will be held worldwide for legitimate token holders to attend and meet others within our community!
 Targeted cities include Las Vegas, New York, Montreal, New Orleans, Ibiza, Barcelona, Miami, Sydney, Bangkok, Rome, Berlin, Amsterdam, Buenos Aires, Tel Aviv, Bali & more!
