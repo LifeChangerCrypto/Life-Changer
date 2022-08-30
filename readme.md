@@ -52,7 +52,9 @@ DATE: AUGUST 30 - SEPTEMBER 6, 2022
 
 # JOIN THE BIGGEST [PINKSALE](https://www.pinksale.finance/launchpad/0xBcede99C4D6bf28Fd828C80f4e993059aE6598AD?chain=BSC) PRE-SALE :handbag: EVER!
 <p align="center">
+<a href="https://www.pinksale.finance/launchpad/0xBcede99C4D6bf28Fd828C80f4e993059aE6598AD?chain=BSC">
 <img src="./pinksale.png" width="50%" height="50%"/>
+</a>
 </p>
 
 2,500 BNB SOFT & 5,000 BNB HARD CAPS!
